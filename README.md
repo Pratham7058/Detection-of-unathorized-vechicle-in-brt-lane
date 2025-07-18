@@ -71,8 +71,6 @@ A separate CSV file stores **unauthorized vehicle Car ID and License Plate Numbe
 ---
 
 ## 🤝 Contributors  
-- 🚀 **Pankaj More**
-- 🚀 **Harsh Balkrishna Vahal**
 - 🚀 **Pratham Mali**
 ---
 
